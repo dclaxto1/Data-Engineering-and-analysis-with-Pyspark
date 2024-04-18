@@ -6,7 +6,7 @@ ETL and analysis with pyspark
 - [Data Engineering](#data-engineering)
 - [Data Analysis](#data-analysis)
 - [Additional Data Exploration](#additional-data-exploration)
-This project can be broken into 3 sections: Data Engineering, Data Analysis, and Additional Data Exploration.
+
 
 ## Data Engineering:
 **Imported dependencies, created spark session, and brought in the csv files:**
