@@ -5,7 +5,7 @@ ETL and analysis with pyspark
 ## Table of Contents
 - [Data Engineering](#data-engineering)
 - [Data Analysis](#data-analysis) 
-- [Additional Data Exploration](#additional-data-exploration)
+- [Additional Data Exploration](#additional-data-exploration)  
 
 
 ## Data Engineering:
