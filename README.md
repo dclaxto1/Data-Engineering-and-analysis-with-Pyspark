@@ -7,7 +7,7 @@ ETL and analysis with pyspark
 - [Data Analysis](#data-analysis) 
 - [Additional Data Exploration](#additional-data-exploration)  
 
-
+  
 ## Data Engineering:
 **Imported dependencies, created spark session, and brought in the csv files:**
 ![image](https://github.com/dclaxto1/Data-Engineering-and-analysis-with-Pyspark/assets/128431134/d46c0463-b4db-4a71-bbbc-696206006883)
