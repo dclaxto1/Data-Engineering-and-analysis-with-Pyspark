@@ -1,5 +1,5 @@
 # Data-Engineering-and-analysis-with-Pyspark   
-ETL and analysis with pyspark      
+ETL and analysis with pyspark       
     
 **Summary:** This project can be broken into 3 sections: Data Engineering, Data Analysis, and Additional Data Exploration.
 ## Table of Contents
